@@ -1,6 +1,6 @@
-package br.com.dio.app.repositories.domain.di
+package br.com.dio.apprepositories.domain.di
 
-import br.com.dio.app.repositories.domain.ListUserRepositoriesUseCase
+import br.com.dio.apprepositories.domain.ListUserRepositoriesUseCase
 import org.koin.core.context.loadKoinModules
 import org.koin.core.module.Module
 import org.koin.dsl.module

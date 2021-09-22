@@ -1,4 +1,4 @@
-package br.com.dio.app.repositories.data.model
+package br.com.dio.apprepositories.data.model
 
 import com.google.gson.annotations.SerializedName
 

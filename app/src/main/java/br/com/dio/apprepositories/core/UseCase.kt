@@ -1,4 +1,4 @@
-package br.com.dio.app.repositories.core
+package br.com.dio.apprepositories.core
 
 import kotlinx.coroutines.flow.Flow
 

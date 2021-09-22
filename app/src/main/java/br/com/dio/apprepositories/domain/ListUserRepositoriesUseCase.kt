@@ -1,8 +1,8 @@
-package br.com.dio.app.repositories.domain
+package br.com.dio.apprepositories.domain
 
-import br.com.dio.app.repositories.core.UseCase
-import br.com.dio.app.repositories.data.model.Repo
-import br.com.dio.app.repositories.data.repositories.RepoRepository
+import br.com.dio.apprepositories.core.UseCase
+import br.com.dio.apprepositories.data.model.Repo
+import br.com.dio.apprepositories.data.repositories.RepoRepository
 import kotlinx.coroutines.flow.Flow
 
 class ListUserRepositoriesUseCase(

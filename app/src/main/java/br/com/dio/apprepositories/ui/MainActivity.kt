@@ -5,11 +5,10 @@ import android.os.Bundle
 import android.util.Log
 import android.view.Menu
 import androidx.appcompat.widget.SearchView
-import br.com.dio.app.repositories.core.createDialog
-import br.com.dio.app.repositories.core.createProgressDialog
-import br.com.dio.app.repositories.core.hideSoftKeyboard
-import br.com.dio.app.repositories.presentation.MainViewModel
-import br.com.dio.app.repositories.ui.RepoListAdapter
+import br.com.dio.apprepositories.core.createDialog
+import br.com.dio.apprepositories.core.createProgressDialog
+import br.com.dio.apprepositories.core.hideSoftKeyboard
+import br.com.dio.apprepositories.presentation.MainViewModel
 import br.com.dio.apprepositories.R
 import br.com.dio.apprepositories.databinding.ActivityMainBinding
 import org.koin.androidx.viewmodel.ext.android.viewModel

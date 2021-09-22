@@ -1,7 +1,7 @@
-package br.com.dio.app.repositories
+package br.com.dio.apprepositories
 
 import android.app.Application
-import br.com.dio.app.repositories.domain.di.DomainModule
+import br.com.dio.apprepositories.domain.di.DomainModule
 import br.com.dio.apprepositories.data.di.DataModule
 import br.com.dio.apprepositories.presentation.di.PresentationModel
 import org.koin.android.ext.koin.androidContext

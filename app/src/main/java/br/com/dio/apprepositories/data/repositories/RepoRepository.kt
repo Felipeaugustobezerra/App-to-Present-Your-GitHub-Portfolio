@@ -1,6 +1,6 @@
-package br.com.dio.app.repositories.data.repositories
+package br.com.dio.apprepositories.data.repositories
 
-import br.com.dio.app.repositories.data.model.Repo
+import br.com.dio.apprepositories.data.model.Repo
 import kotlinx.coroutines.flow.Flow
 
 interface RepoRepository {

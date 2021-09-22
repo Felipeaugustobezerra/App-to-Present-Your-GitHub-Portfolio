@@ -1,11 +1,11 @@
-package br.com.dio.app.repositories.ui
+package br.com.dio.apprepositories.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import br.com.dio.app.repositories.data.model.Repo
+import br.com.dio.apprepositories.data.model.Repo
 
 import br.com.dio.apprepositories.databinding.ItemRepoBinding
 import com.bumptech.glide.Glide

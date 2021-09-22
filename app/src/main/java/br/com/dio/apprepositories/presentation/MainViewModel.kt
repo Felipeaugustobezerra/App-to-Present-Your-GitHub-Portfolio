@@ -1,11 +1,11 @@
-package br.com.dio.app.repositories.presentation
+package br.com.dio.apprepositories.presentation
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import br.com.dio.app.repositories.data.model.Repo
-import br.com.dio.app.repositories.domain.ListUserRepositoriesUseCase
+import br.com.dio.apprepositories.data.model.Repo
+import br.com.dio.apprepositories.domain.ListUserRepositoriesUseCase
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.onStart

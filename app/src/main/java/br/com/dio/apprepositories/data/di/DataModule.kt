@@ -2,9 +2,9 @@ package br.com.dio.apprepositories.data.di
 
 
 import android.util.Log
-import br.com.dio.app.repositories.data.repositories.RepoRepository
-import br.com.dio.app.repositories.data.repositories.RepoRepositoryImpl
-import br.com.dio.app.repositories.data.services.GitHubService
+import br.com.dio.apprepositories.data.repositories.RepoRepository
+import br.com.dio.apprepositories.data.repositories.RepoRepositoryImpl
+import br.com.dio.apprepositories.data.services.GitHubService
 import com.google.gson.GsonBuilder
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

@@ -1,7 +1,7 @@
-package br.com.dio.app.repositories.data.repositories
+package br.com.dio.apprepositories.data.repositories
 
-import br.com.dio.app.repositories.core.RemoteException
-import br.com.dio.app.repositories.data.services.GitHubService
+import br.com.dio.apprepositories.core.RemoteException
+import br.com.dio.apprepositories.data.services.GitHubService
 import kotlinx.coroutines.flow.flow
 import retrofit2.HttpException
 
